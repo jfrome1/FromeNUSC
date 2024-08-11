@@ -11,7 +11,7 @@ See the rest of the page for important details.
 
 # :x modified
 
-[Note to colleagues: I hope others will use a similar policy in their courses and provide me transcripts, and this summary statement can be modified by the instructor for each course. Another course might say "You are free to use or not use GenAI in any way for generating ideas or for receiving feedback on drafts you write yourself." I can modify language below to reflect changes you might want]
+[_Note to colleagues_: I can modify this page for others who might want to use it with a different GenAI policy]
 
 ## What counts as GenAI?
 
